@@ -1,0 +1,9 @@
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe.config
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.pdb
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.Form1.resources
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.Properties.Resources.resources
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.GenerateResource.Cache
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.exe
+E:\KHPolash\06 May 2015\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
